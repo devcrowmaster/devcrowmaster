@@ -4,6 +4,8 @@
   FrontEnd Developer</b>
 </p>
 
+### 🚀 Connect with me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:alexanderr7991@hotmail.com)
 <hr>
 
 ### 🔥 More Projects
